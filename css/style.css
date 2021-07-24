@@ -1,0 +1,104 @@
+* {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+}
+
+.top-section {
+      text-align: center;
+      height: 42px;
+      background: #03A84E;
+}
+
+.top-section h3 {
+      font-size: 20px;
+      color: #fff;
+      font-weight: normal;
+}
+
+/* =============== styling NAVBAR=============== */
+.navbar-brand img {
+      width: 60px;
+      height: 63px;
+}
+
+.btn {
+      margin-right: 10px;
+}
+
+.star-item {
+      color: #FFE200;
+}
+
+.hero-item h1 {
+      font-size: 60px;
+      font-weight: 900;
+}
+
+.hero-item p {
+      font-size: 18px;
+      color: grey;
+
+}
+
+.card {
+      border: 0;
+      background: none;
+}
+
+.about-title h2 {
+      font-size: 36px;
+}
+
+.about-title p {
+      font-size: 20px;
+      color: grey;
+}
+
+.customer {
+      position: relative;
+}
+
+.customer span {
+      color: #03A84E;
+}
+
+.line-height {
+      position: absolute;
+      margin-left: 170px;
+      top: 515px;
+}
+
+.second {
+      position: relative;
+}
+
+.line {
+      position: absolute;
+      left: 238px;
+      bottom: -22px;
+
+}
+
+.second__part {
+      position: relative;
+}
+
+.second__part img {
+      margin-bottom: 20px;
+}
+
+.second__part p {
+      margin-bottom: 20px;
+}
+
+.third__part {
+      position: relative;
+}
+
+.third__part .line {
+      position: absolute;
+      top: -190px;
+      left: 142px;
+      
+}
