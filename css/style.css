@@ -102,3 +102,17 @@
       left: 142px;
       
 }
+.resources > img {
+      width: 780px;
+      height: 600px;
+}
+.resources-item div {
+      margin-bottom: 20px;
+      
+}
+.resources-item div i {
+      margin-right: 10px;
+}
+.accordion a {
+      text-decoration: none;
+}
